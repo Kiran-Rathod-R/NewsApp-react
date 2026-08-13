@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from './components/Navbar'
 import News from './components/News'
+import Footer from './components/Footer'
 
 export default class App extends Component {
   constructor(props) {
@@ -41,7 +42,7 @@ export default class App extends Component {
     const { mode, category, searchQuery } = this.state;
 
     return (
-      <div className={mode === 'dark' ? 'bg-dark text-light min-vh-100 pb-5' : 'bg-light text-dark min-vh-100 pb-5'}>
+      <div className={mode === 'dark' ? 'bg-dark text-light min-vh-100 d-flex flex-column' : 'bg-light text-dark min-vh-100 d-flex flex-column'}>
         <Navbar 
           activeCategory={category} 
           onCategoryChange={this.handleCategoryChange}
@@ -49,14 +50,17 @@ export default class App extends Component {
           mode={mode}
           toggleMode={this.toggleMode}
         />
-        <News 
-          key={`${category}-${searchQuery}`}
-          pagesize={6} 
-          country="in"
-          category={category}
-          searchQuery={searchQuery}
-          mode={mode}
-        />
+        <main className="flex-grow-1">
+          <News 
+            key={`${category}-${searchQuery}`}
+            pagesize={6} 
+            country="in"
+            category={category}
+            searchQuery={searchQuery}
+            mode={mode}
+          />
+        </main>
+        <Footer mode={mode} />
       </div>
     )
   }
