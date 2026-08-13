@@ -1,0 +1,1267 @@
+{
+    "status": "ok",
+    "totalResults": 7773,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+            "description": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising …",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268553_We_went_looking_for_the_weed_vape_that_gives_you_Bitcoin_for_smoking_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-29T17:09:12Z",
+            "content": "<ul><li></li></ul>\r\nGudtrip is the most ridiculous AI/crypto/weed product to ever touch the internet. Could it possibly be real?\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your da… [+9574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Why Would Someone Publicly Burn $8 Million Worth of Bitcoin? Theories Are Flying",
+            "description": "And another question: How do you burn bitcoin?",
+            "url": "https://gizmodo.com/why-would-someone-publicly-burn-8-million-worth-of-bitcoin-theories-are-flying-2000764705",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/bitcoin-fire-1200x675.jpg",
+            "publishedAt": "2026-05-28T20:12:23Z",
+            "content": "Earlier this week, someone burned 107 bitcoin (currently worth roughly $7.8 million) by sending the coins to an address where they would become provably unspendable. Initially, the public lighting of… [+5204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "SpaceX Holds More Bitcoin Than Previously Thought",
+            "description": "To the Moon.",
+            "url": "https://gizmodo.com/spacex-holds-more-bitcoin-than-previously-thought-2000762104",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/falcon-9-launch-1200x675.jpeg",
+            "publishedAt": "2026-05-21T20:45:52Z",
+            "content": "In a filing with the U.S. Securities and Exchange Commission (SEC), SpaceX has revealed that it holds 18,712 bitcoin, currently worth around $1.45 billion. Although Elon Musk previously revealed that… [+4091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "‘Lost the Plot’: Mark Cuban Reveals Why He Sold Most of His Bitcoin",
+            "description": "Mark Cuban is losing faith in the flagship cryptocurrency.",
+            "url": "https://gizmodo.com/lost-the-plot-mark-cuban-reveals-why-he-sold-most-of-his-bitcoin-2000762634",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/MarkCubanGetty-1200x675.jpg",
+            "publishedAt": "2026-05-22T19:15:12Z",
+            "content": "Billionaire Mark Cuban says that he has sold most of his bitcoin, and he doesn’t mince words as to why. \r\nIn a recent interview with Front Office Sports, the billionaire investor and partial owner of… [+2958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "‘Smoke Weed and Earn Bitcoin’ with This Vape Pen in Our Increasingly Dystopian Nightmare",
+            "description": "Should we really be adding gamification features to getting high?",
+            "url": "https://gizmodo.com/smoke-weed-and-earn-bitcoin-with-this-vape-pen-in-our-increasingly-dystopian-nightmare-2000759783",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/cannabisplant-1200x675.jpg",
+            "publishedAt": "2026-05-17T20:33:09Z",
+            "content": "Gudtrip is a cannabis vape pen from blockchain hardware manufacturer Puffpaw that is touting its ability to allow consumers to earn bitcoin while they smoke weed. Each of the companys individual vape… [+5988 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum",
+            "description": "Ethereum's relevance continues to dwindle as crypto aligns with institutions.",
+            "url": "https://gizmodo.com/wall-streets-stablecoin-darling-raises-222-million-to-starve-ethereum-2000757094",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Circle-Crypto-Arc-1200x675.jpg",
+            "publishedAt": "2026-05-11T16:40:43Z",
+            "content": "Increased centralization around stablecoin issuers and other fintech companies has defined much of the crypto market in recent years. And Circle has now furthered this trend by securing a $222 millio… [+4960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Poll Finds 62% of Americans Don’t Trust Trump on Crypto",
+            "description": "Despite his campaign's emphasis on crypto, one of Trump's signature pledges remains unfulfilled.",
+            "url": "https://gizmodo.com/poll-finds-62-of-americans-dont-trust-trump-on-crypto-2000753919",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/trump-getty-cabinet-march-26-2026-1200x675.jpg",
+            "publishedAt": "2026-05-04T09:30:54Z",
+            "content": "Donald Trump’s vocal backing of the cryptocurrency industry during the 2024 campaign delivered substantial financial contributions from crypto backers and played a role in his return to the presidenc… [+4820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Claude Helps Recover Locked $400K Bitcoin Wallet After 11 Years",
+            "description": "A Bitcoin holder reportedly recovered 5 BTC worth nearly $400,000 with the help of Anthropic's Claude. According to X user cprkrn, they changed their wallet password while \"stoned\" and forgot it, unable to regain access for more than 11 years. Tom's Hardware …",
+            "url": "https://slashdot.org/story/26/05/14/1857211/claude-helps-recover-locked-400k-bitcoin-wallet-after-11-years",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2026-05-14T20:00:00Z",
+            "content": "After finding a mnemonic that actually turned out to be their old password a few weeks ago, the user dumped their entire college computer files in Claude in a last-gasp effort. The bot uncovered an o… [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Boing Boing's Shop",
+            "title": "Start solo-mining Bitcoin from your desk for $60",
+            "description": "TL;DR: The BlockChance Bitcoin Ticket Miner is a pocket-sized standalone device that submits solo-mining lottery tickets to the Bitcoin network, giving you a legitimate shot at a full block reward for just $59.99 (reg. $149.99).\nLook, the odds of winning a Bi…",
+            "url": "https://boingboing.net/2026/05/28/start-solo-mining-bitcoin-from-your-desk-for-60.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2026/05/BlockChance.jpg?fit=2250%2C1500&quality=60&ssl=1",
+            "publishedAt": "2026-05-28T21:00:00Z",
+            "content": "Disclosure: Boing Boing earns a commission on purchases made through links in this post.\r\nTL;DR: The BlockChance Bitcoin Ticket Miner is a pocket-sized standalone device that submits solo-mining lott… [+1895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ben Weiss",
+            "title": "Michael Saylor says remarks about selling Bitcoin were intended to jam short-sellers and ‘haters’",
+            "description": "Saylor, the chairman of Strategy, told Fortune that his comments about selling Bitcoin sought to protect his stock from crashing.",
+            "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-remarks-selling-154918323.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5a8YrgfFHkAZvqvvFXvOWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/0bce4eaf8f7e8de0fa24fd9a4c5b92ec",
+            "publishedAt": "2026-05-08T15:49:18Z",
+            "content": "Michael Saylor is the worlds foremost Bitcoin buyer. You do not sell your Bitcoin, wrote the crypto billionaire in October. But, on a Tuesday earnings call, Saylor, whose company Strategy has accumul… [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Ellsworth Toohey",
+            "title": "After 3.5 trillion guesses, a forgotten $400k Bitcoin wallet finally opened",
+            "description": "Eleven years ago, an X user who goes by cprkrn changed the password on a Bitcoin wallet holding 5 BTC. He was stoned at the time. He forgot the new password by morning, and 5 BTC sat untouched while it grew to roughly $400,000. — Read the rest \nThe post After…",
+            "url": "https://boingboing.net/2026/05/14/after-3-5-trillion-guesses-a-forgotten-400k-bitcoin-wallet-finally-opened.html",
+            "urlToImage": null,
+            "publishedAt": "2026-05-14T19:39:59Z",
+            "content": "Eleven years ago, an X user who goes by cprkrn changed the password on a Bitcoin wallet holding 5 BTC. He was stoned at the time. He forgot the new password by morning, and 5 BTC sat untouched while … [+1204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Crypto Security Pioneer: ‘I Now Consider All of DeFi Unsafe’",
+            "description": "AI comes for us all.",
+            "url": "https://gizmodo.com/crypto-security-pioneer-i-now-consider-all-of-defi-unsafe-2000764097",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/bank_vault-1200x675.jpg",
+            "publishedAt": "2026-05-28T17:10:33Z",
+            "content": "Crypto projects in the decentralized finance (DeFi) sector have faced a wave of security incidents lately, and now, one of the earliest figures in smart contract auditing has declared the entire DeFi… [+5874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Why bitcoin traders are suddenly obsessed with a forgotten crypto",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b325eadb-5b7c-41da-9002-59b7941277f3",
+            "urlToImage": null,
+            "publishedAt": "2026-05-15T16:24:50Z",
+            "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rhett Jones",
+            "title": "Iran Doubles Down on Bitcoin for Ships Passing Through the Straight of Hormuz",
+            "description": "Collecting bitcoin for safe passage while also collecting bitcoin for insurance in case the safe passage doesn't work out.",
+            "url": "https://gizmodo.com/iran-doubles-down-on-bitcoin-for-ships-passing-through-the-straight-of-hormuz-2000760178",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/straight_of_hormuz-1200x675.jpg",
+            "publishedAt": "2026-05-18T21:10:29Z",
+            "content": "According to reports out of Iran, the country is launching an insurance program for vessels traveling through the Strait of Hormuz that will pay out claims via Bitcoin. This follows a previously anno… [+4532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Knobloch",
+            "title": "Bitcoin Depot: Nordamerikas größter Bitcoin-Automatenbetreiber ist pleite",
+            "description": "Der Bitcoin-Automatenbetreiber Bitcoin Depot meldet Insolvenz an und macht für den Schritt zunehmend strengere staatliche Regulierungen verantwortlich.",
+            "url": "https://www.heise.de/news/Bitcoin-Depot-Nordamerikas-groesster-Bitcoin-Automatenbetreiber-ist-pleite-11298077.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/4/4/8/9/shutterstock_1976944238-5e18b8fbf881e81c.jpg",
+            "publishedAt": "2026-05-19T03:10:00Z",
+            "content": "Inhaltsverzeichnis\r\nDas US-Fintech-Unternehmen Bitcoin Depot hat am Montag Insolvenz angemeldet und strebt eine geordnete Abwicklung seiner Geschäftstätigkeit an. Das gibt das Unternehmen in einer Pr… [+3845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Michael Saylor’s Bitcoin Treasury Company Posts $12.5 Billion Loss, Boasts That People Are Still Giving It Money",
+            "description": "The company, Strategy, is effectively a levered play on bitcoin.",
+            "url": "https://gizmodo.com/michael-saylors-bitcoin-treasury-company-posts-12-5-billion-loss-boasts-that-people-are-still-giving-it-money-2000755338",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/michael-saylor-1200x675.jpg",
+            "publishedAt": "2026-05-06T23:16:29Z",
+            "content": "Strategy, which is the $64 billion bitcoin treasury company led by Michael Saylor, has one overriding objective: acquire as much bitcoin as possible as quickly as possible. However, the firm posted 1… [+4380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rhett Jones",
+            "title": "Price of Bitcoin Drops as Michael Saylor’s Strategy Sells Off Some of Its Stash",
+            "description": "For years, Saylor's company has had one strategy: buy bitcoin and don't sell it.",
+            "url": "https://gizmodo.com/price-of-bitcoin-drops-as-michael-saylors-strategy-sells-off-some-of-its-stash-2000765973",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/michael-saylor-1200x675.jpg",
+            "publishedAt": "2026-06-01T19:35:12Z",
+            "content": "Bitcoin fell below $71,000 on Monday morning following a disclosed sale of 32 bitcoin (for roughly $2.5 million) by Michael Saylors bitcoin treasury company, Strategy. Saylor has stated on numerous o… [+4404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "El Salvador’s Bitcoin-Loving President Has Allegedly Frozen Assets of Local News Outlet",
+            "description": "The ideas underpinning Bitcoin are sort of the opposite of this.",
+            "url": "https://gizmodo.com/el-salvadors-bitcoin-loving-president-has-allegedly-frozen-assets-of-local-news-outlet-2000756750",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/11/a57873c822d2bcd8c97a2b2fcc2272f3.jpg",
+            "publishedAt": "2026-05-10T09:30:39Z",
+            "content": "Salvadorean news outlet El Faro has reported that assets tied to two of its shareholders, including bank accounts and property, have been frozen. The outlet maintains that President Nayib Bukele orde… [+5291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Antonio Vallejo",
+            "title": "Harvard ha protagonizado el experimento más caro y rápido de 2026: compró 87 millones de dólares en ETH y lo vendió todo en un trimestre",
+            "description": "El fondo de inversión de Harvard se dispuso a comprar Ethereum en otoño del año pasado. Tres meses después, lo ha acabado vendiendo todo. Al mismo tiempo, ha seguido reduciendo su posición en Bitcoin, que también ha ido menguando trimestre a trimestre desde q…",
+            "url": "https://www.xataka.com/empresas-y-economia/harvard-ha-protagonizado-quizas-experimento-caro-rapido-2026-compro-87-millones-dolares-eth-vende-todo-trimestre",
+            "urlToImage": "https://i.blogs.es/aa932d/ether/840_560.jpeg",
+            "publishedAt": "2026-05-20T11:00:13Z",
+            "content": "El fondo de inversión de Harvard se dispuso a comprar Ethereum en otoño del año pasado. Tres meses después, lo ha acabado vendiendo todo. Al mismo tiempo, ha seguido reduciendo su posición en Bitcoin… [+4444 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Woman loses nearly $10K in jury duty crypto scam",
+            "description": "Gail Barr was tricked into paying $9,260 through a Bitcoin ATM in a jury duty scam on her 70th birthday. Arizona's new crypto kiosk law saved her.",
+            "url": "https://www.foxnews.com/tech/woman-loses-nearly-10k-jury-duty-crypto-scam",
+            "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+            "publishedAt": "2026-05-20T14:18:35Z",
+            "content": "Gail Barr expected birthday calls on her 70th birthday. She got plenty of sweet messages from family and friends. Then one voicemail turned her day upside down. The caller claimed to be Chief Deputy … [+15598 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Massive Crypto ATM Company Bitcoin Depot Is Shutting Down as the Whole Industry Collapses",
+            "description": "The company has filed for bankruptcy amid legal scrutiny over allegations its ATMs were used to facilitate fraud.",
+            "url": "https://gizmodo.com/massive-crypto-atm-company-bitcoin-depot-is-shutting-down-as-the-whole-industry-collapses-2000760192",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_1261474762-1200x675.jpg",
+            "publishedAt": "2026-05-18T21:30:25Z",
+            "content": "Bitcoin Depot, once the largest network of crypto ATMs in North America, is calling it quits following mounting legal scrutiny and a state-by-state crackdown on Bitcoin teller machines (BTMs) over fr… [+2921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Knobloch",
+            "title": "Dienstag: Elon Musk verliert gegen Sam Altman, Bitcoin Depot ist pleite",
+            "description": "Elon Musk-Klage abgewiesen + Bitcoin Depot meldet Insolvenz an + Sony erhöht die Preise + US-Behörden untersuchen Insiderhandel + SpaceX bereitet Erstflug vor",
+            "url": "https://www.heise.de/news/Dienstag-Elon-Musk-verliert-gegen-Sam-Altman-Bitcoin-Depot-ist-pleite-11298143.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/4/5/2/2/Wochentage-source-sans-25d4494abf2f90ad.png",
+            "publishedAt": "2026-05-19T04:15:00Z",
+            "content": "Elon Musk ist mit seiner Milliardenklage gescheitert. Eine Geschworenenjury hat die erweiterte Klage gegen Sam Altman, OpenAI und Microsoft nun zurückgewiesen allerdings nicht aus inhaltlichen Gründe… [+4377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Andreas Donath",
+            "title": "Straße von Hormus: Iran testet Bitcoin als Währung für Schiffsdurchfahrt",
+            "description": "Iran will Reedereien eine Bitcoin-gedeckte Transitversicherung für die Straße von Hormus anbieten. Mehr als 1.500 Schiffe stecken im Golf fest. (Bitcoin, Blockchain)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fstrasse-von-hormus-iran-testet-bitcoin-als-waehrung-fuer-schiffsdurchfahrt-2605-208791.html&referer=https%3A%2F%2Ft.co%2F6e272f0157",
+            "urlToImage": null,
+            "publishedAt": "2026-05-19T05:59:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Alcazarsec.com"
+            },
+            "author": "Alcazar Security",
+            "title": "How Monero's proof of work works",
+            "description": "Monero does not use a simple fixed hash like Bitcoin. Its proof of work, RandomX, turns mining into running random CPU-friendly programs over a large memory dataset, which is why it behaves so differently from ASIC-first systems.",
+            "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+            "urlToImage": "https://alcazarsec.com/og/alcazar-nisdwy-dms.png",
+            "publishedAt": "2026-05-04T14:10:50Z",
+            "content": "Moneros proof of work is called RandomX.\r\nMonero does not ask miners to run the same tiny hash function over and over. It asks them to run a small random program on a virtual machine, hit memory hard… [+12588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Holland",
+            "title": "Straße von Hormus: Iran will Transit nach Bitcoinzahlung offiziell versichern",
+            "description": "Die für den Welthandel wichtige Straße von Hormus ist weiter dicht, einige Schiffe kommen aber durch. Das lässt sich der Iran bezahlen, bald wohl offiziell.",
+            "url": "https://www.heise.de/news/Strasse-von-Hormus-Iran-will-Transit-nach-Bitcoinzahlung-offiziell-versichern-11298155.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/4/5/2/8/shutterstock_2773432775-c6b6ee01d3c81cc6.jpg",
+            "publishedAt": "2026-05-19T05:11:00Z",
+            "content": "Der Iran hat angeblich einen auf Bitcoin basierenden Dienst eingerichtet, über den iranische Reedereien für eine sichere Passage durch die Straße von Hormus bezahlen können. Das berichtet Bloomberg u… [+2898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "JPMorgan’s Jamie Dimon Says Coinbase’s CEO Is ‘Full of Sh*t’ on Crypto Bill",
+            "description": "Dimon and Armstrong sit on opposite camps in the CLARITY Act debate, representing the banking and crypto industries, respectively",
+            "url": "https://gizmodo.com/jpmorgans-jamie-dimon-says-coinbases-ceo-is-full-of-sht-on-crypto-bill-2000765500",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Jamie-Dimon-Coinbase-CEO-Clarity-Act-1200x675.jpg",
+            "publishedAt": "2026-06-01T10:57:00Z",
+            "content": "The crypto and traditional banking industries have been at odds regarding the specific language that will be included in the CLARITY Act all yearbut the battle of words has reached new heights.\r\nThe … [+4569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "April Was the Worst Ever Month on Record for Crypto Hacks",
+            "description": "Drift and Kelp DAO were the two most notable crypto hacks in April, combining for $579 million in losses.",
+            "url": "https://gizmodo.com/april-was-the-worst-ever-month-on-record-for-crypto-hacks-2000753890",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-05-03T15:29:12Z",
+            "content": "April was the worst month on record for crypto projects getting hacked, with 29 incidents tracked by crypto data provider DefiLlama. In terms of dollar value, $651 million in losses were recorded, wh… [+4944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Trump-Linked Crypto Company Notes ‘Substantial Doubt’ It Can Survive Another 12 Months",
+            "description": "AI Financial is a publicly traded company heavily invested in Trump-related crypto.",
+            "url": "https://gizmodo.com/trump-linked-crypto-company-notes-substantial-doubt-it-can-survive-another-12-months-2000761027",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/crypto-tokens-memecoins-blockchain-1200x675.jpg",
+            "publishedAt": "2026-05-20T00:33:53Z",
+            "content": "In a recent SEC filing, AI Financial has indicated that it may not be able to survive another year writing, These conditions raise substantial doubt about the Companys ability to continue as a going … [+5049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "SpaceX Taps Crypto Billionaire to Lead First Crewed Mission to Mars",
+            "description": "SpaceX shared new details about a crewed Mars flyby in the lead-up to Thursday's Flight 12 launch attempt.",
+            "url": "https://gizmodo.com/spacex-taps-crypto-billionaire-to-lead-first-crewed-mission-to-mars-2000762451",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Chun-Wang-1200x675.jpg",
+            "publishedAt": "2026-05-22T14:55:18Z",
+            "content": "SpaceX may have failed to get Starship V3 off the ground on Thursday, but the company revealed some interesting information in the lead-up to its launch attempt. With less than 15 minutes left in the… [+3677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Man Says He Used AI to Unlock Old Bitcoin Wallet Worth $400K",
+            "description": "The pseudonymous user said he was stoned when he changed the password in 2015.",
+            "url": "https://gizmodo.com/man-says-he-used-ai-to-unlock-old-bitcoin-wallet-worth-400k-2000758866",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Crypto-Wallet-Bitcoin-1200x675.jpg",
+            "publishedAt": "2026-05-15T13:10:01Z",
+            "content": "A pseudonymous user on X claims he regained access to 5 bitcoin he had lost for more than a decade after forgetting the passwordand it was Anthropics Claude chatbot that put all the pieces of the puz… [+4896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rhett Jones",
+            "title": "North Korea Provides Rare Response to Longstanding Crypto Crime Accusations",
+            "description": "The government did not admit to doing all the crimes.",
+            "url": "https://gizmodo.com/north-korea-provides-rare-response-to-longstanding-crypto-crime-accusations-2000754559",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/04/b31a2a9cf609386e3794b72daf5095ed-e1777987998228-1200x675.jpg",
+            "publishedAt": "2026-05-05T14:20:51Z",
+            "content": "A spokesperson for North Korea’s foreign ministry has responded to the deluge of accusations related to crypto thefts and crimes thrown at Kim Jong Un’s regime, according to North Korea’s state news … [+4831 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Simon Sharwood",
+            "title": "Neocloud IREN buys OpenStack champion Mirantis",
+            "description": "Former bitcoin miner plans to build an easier cloudy AI on ramp while remaining a friend to FOSS",
+            "url": "https://www.theregister.com/off-prem/2026/05/07/neocloud-iren-buys-openstack-champion-mirantis/5231644",
+            "urlToImage": "https://image.theregister.com/5225246.jpg?imageId=5225246&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-05-07T05:34:24Z",
+            "content": "Neocloud IREN has decided to buy Mirantis, and the two plan to build an open AI stack.\r\nMirantis made its name developing open source cloud infrastructure, such as its OpenStack distribution, hyperco… [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Pastor",
+            "title": "Claude ha ayudado a un hombre a recuperar 400.000 dólares en bitcoin que perdió hace 11 años. Se colocó y olvidó la contraseña",
+            "description": "Un usuario de X llamado Cprkrn contaba recientemente su odisea con final (muy) feliz en X. En 2015 compró cinco bitcoins (BTC) cuando el precio rondaba los 250 dólares. En un arrebato de euforia universitaria decidió que su contraseña debía ser un manifiesto …",
+            "url": "https://www.xataka.com/criptomonedas/claude-ha-ayudado-a-hombre-a-recuperar-400-000-dolares-bitcoin-que-perdio-hace-11-anos-se-coloco-olvido-contrasena",
+            "urlToImage": "https://i.blogs.es/b8bce7/bitcoins-copia-2/840_560.jpeg",
+            "publishedAt": "2026-05-14T10:45:29Z",
+            "content": "Un usuario de X llamado Cprkrn contaba recientemente su odisea con final (muy) feliz en X. En 2015 compró cinco bitcoins (BTC) cuando el precio rondaba los 250 dólares. En un arrebato de euforia univ… [+4026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "The Big Short’s Michael Burry Just Ditched All Of His GameStop Stock After Years Of Hyping The Company: ‘When Hundreds Of Billions Are On The Table, Bet On Craven Greed’",
+            "description": "Ryan Cohen's absurd bid for a leveraged buyout of eBay is spooking investors",
+            "url": "https://kotaku.com/the-big-shorts-michael-burry-just-ditched-all-of-his-gamestop-stock-after-years-of-hyping-the-company-when-hundreds-of-billions-are-on-the-table-bet-on-craven-greed-2000693267",
+            "urlToImage": "https://kotaku.com/app/uploads/2021/09/97ae414eb2f00a5c1b3c54426badb8f7-1200x675.jpg",
+            "publishedAt": "2026-05-05T17:13:20Z",
+            "content": "GameStop’s meme stock status has allowed it nine lives to try to reinvent itself as something other than a brick-and-mortar retailer for physical games. Its latest quixotic bet is a $56 billion lever… [+2412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Peter Steinlechner",
+            "title": "Wegen Kryptowährungen: Trump-Medienfirma rutscht tief in die roten Zahlen",
+            "description": "Trump Media meldet Hunderte Millionen Dollar Verlust, ausgelöst vor allem durch Wertverluste bei Bitcoin und anderen Kryptowährungen. (Donald Trump, Politik)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fwegen-kryptowaehrungen-trump-medienfirma-rutscht-tief-in-die-roten-zahlen-2605-208506.html&referer=https%3A%2F%2Ft.co%2F1f742f55c1",
+            "urlToImage": null,
+            "publishedAt": "2026-05-10T10:40:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Przemyslaw Szymanski",
+            "title": "Bitcoin: Claude hilft bei gesperrter 400.000-US-Dollar-Wallet",
+            "description": "Elf Jahre lang war eine Wallet mit 5 Bitcoins gesperrt. Erst alte Dateien und Claude brachten den Zugang zum beträchtlichen Vermögen zurück. (Bitcoin, KI)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbitcoin-claude-hilft-bei-gesperrter-400-000-us-dollar-wallet-2605-208699.html&referer=https%3A%2F%2Ft.co%2F9b56b4797a",
+            "urlToImage": null,
+            "publishedAt": "2026-05-15T09:10:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "‘Unstoppable’ Crypto Exchange Halts Trading After $10 Million Theft",
+            "description": "THORChain has claimed end user funds were not affected by this incident.",
+            "url": "https://gizmodo.com/unstoppable-crypto-exchange-halts-trading-after-10-million-theft-2000759775",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-05-17T19:14:07Z",
+            "content": "THORChain, a decentralized crypto exchange protocol that functions as a meta layer across multiple blockchains, halted trading on Friday after a suspected exploit resulted in the theft of roughly $10… [+5079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Matt Horne",
+            "title": "Claude helps recover $400,000 in Bitcoin after a very expensive stoner mistake",
+            "description": "An X user says Claude helped him recover access to 5 Bitcoin after 11 years, thanks to an old wallet backup and a ridiculous password.",
+            "url": "https://www.androidauthority.com/claude-helps-recover-bitcoin-3667658/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/12/claude-homepage.jpg",
+            "publishedAt": "2026-05-15T18:18:45Z",
+            "content": "<ul><li>An X user says Claude helped him recover access to 5 Bitcoin after 11 years.</li><li>The user says the AI found an old wallet file that worked with an old password clue.</li><li>The recovered… [+2443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Yorker"
+            },
+            "author": "John Cassidy",
+            "title": "This Is What Trumpian Self-Dealing Looks Like",
+            "description": "The power struggle over regulating crypto and prediction markets offers a window into how the President enriches his family and his wealthy supporters, John Cassidy writes.",
+            "url": "https://www.newyorker.com/news/the-financial-page/this-is-what-trumpian-self-dealing-looks-like",
+            "urlToImage": "https://media.newyorker.com/photos/6a1c6f6c45d78a7fb2a79ace/16:9/w_1280,c_limit/Cassidy:Betting:TrumpCassidy_Pickup_Treatment.jpg",
+            "publishedAt": "2026-06-01T10:00:00Z",
+            "content": "This intervention comes as the C.F.T.C. is expanding its supervisory role in another fast-developing industry, one in which the Trump family has even bigger financial interests: crypto. According to … [+3924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Holland",
+            "title": "Europol: 14.000 Inhalte von Irans Revolutionsgarde aus dem Internet entfernt",
+            "description": "Irans Revolutionsgarde gilt in der EU als Terrorgruppe. Über 14.000 Inhalte aus dem Dunstkreis der Organisation wurden koordiniert aus dem Internet gelöscht.",
+            "url": "https://www.heise.de/news/Europol-14-000-Inhalte-von-Irans-Revolutionsgarde-aus-dem-Internet-entfernt-11298405.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/4/6/4/1/shutterstock_1960981711-0ede3b8574383938.jpg",
+            "publishedAt": "2026-05-19T09:22:00Z",
+            "content": "In einer koordinierten Aktion haben Strafverfolgungsbehörden aus 18 europäischen Staaten und den USA Beiträge aus dem Internet entfernen lassen, die in Verbindung zu den Revolutionsgarden der Islamis… [+2701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Brandon Drenon; Joe Tidy - Cyber correspondent, BBC World Service",
+            "title": "International cyber attack disrupts swathe of universities and schools",
+            "description": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+            "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q2REx4VntPRB7t5y8bwjgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/735b0fe067a2d703abb98fb15a641f83",
+            "publishedAt": "2026-05-11T10:09:25Z",
+            "content": "A cyber attack hit several universities and schools in the US, Canada and Australia, causing chaos, confusion and major disruptions amid the high stakes end-of-year season.\r\nThe hacking group ShinyHu… [+5805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Korben.info"
+            },
+            "author": "Vincent Lautier",
+            "title": "Il retrouve 400 000 $ de Bitcoin oubliés depuis 11 ans grâce à Claude",
+            "description": "L'histoire est partie d'un changement de mot de passe fait pendant une cuite en 2014. Onze ans plus tard, le malheureux (\"\ncprkrn\n\" sur X) avait toujours ses 5 bitcoins coincés dans un portefeuille numérique dont la clé d'accès s'était totalement évaporée de …",
+            "url": "https://korben.info/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude.html",
+            "urlToImage": "https://korben.info/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude-1.jpg",
+            "publishedAt": "2026-05-15T07:18:46Z",
+            "content": "L'histoire est partie d'un changement de mot de passe fait pendant une cuite en 2014. Onze ans plus tard, le malheureux (\"\r\ncprkrn\r\n\" sur X) avait toujours ses 5 bitcoins coincés dans un portefeuille… [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Hadrien Augusto",
+            "title": "La doctrine « Never Sell » de Strategy rompue : Michael Saylor vient de vendre des bitcoins",
+            "description": "Strategy (ex-MicroStrategy) possédait une réserve de 843 739 bitcoins à la fin du mois de mai 2026, soit 4 % de l’offre mondiale. Depuis plusieurs mois, ces liquidités pèsent sur l’entreprise qui doit rembourser ses dettes et verser ses dividendes. Quelques b…",
+            "url": "https://www.presse-citron.net/la-doctrine-never-sell-de-strategy-rompue-michael-saylor-vient-de-vendre-des-bitcoins/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2026/06/strategy-bitcoin-vente-2026-1600x900.jpg",
+            "publishedAt": "2026-06-01T12:47:56Z",
+            "content": "Daprès de récents documents officiels, lentreprise Strategy, anciennement connue sous le nom de MicroStrategy, a vendu 32 bitcoins la semaine dernière, pour un total de 2,5 millions de dollars. Dans … [+3451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Connor Jones",
+            "title": "Dude… where’s my password? Claude reunites forgetful stoner with $400k Bitcoin stash",
+            "description": "AI to the rescue as 11-year search for password turns up in old PC files",
+            "url": "https://www.theregister.com/offbeat/2026/05/14/claude-reunites-stoner-with-bitcoin-after-losing-password/5240492",
+            "urlToImage": "https://image.theregister.com/5240537.jpg?imageId=5240537&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-05-14T13:30:00Z",
+            "content": "Eleven years ago, a stoner bought some Bitcoin, lit up, and entered a password that he soon forgot. Now, after searching for more than a decade, Claude AI has helped him figure out the credentials he… [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "GameStop Wants To Sell You Random Pokémon Cards For $5,000 A Pop",
+            "description": "You, too, can help fund that eBay acquisition",
+            "url": "https://kotaku.com/gamestop-random-rare-pokemon-cards-5000-2000693622",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/05/neutronium-blogroll.jpg",
+            "publishedAt": "2026-05-06T18:30:25Z",
+            "content": "As GameStop tries to buy eBay with $56 billion of fictional money, it’s also putting a lot of effort into pump its own profits by price-gouging customers on collectibles like trading cards. Today, th… [+2505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rhett Jones",
+            "title": "DeFi Visa Card Takes Our Casino Economy to the Next Level With ‘Buy Now, Pay Maybe’ Scheme",
+            "description": "It's just innovation upon innovation.",
+            "url": "https://gizmodo.com/defi-visa-card-takes-our-casino-economy-to-the-next-level-with-buy-now-pay-maybe-scheme-2000756384",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/tuyo_credit-card-1200x675.jpg",
+            "publishedAt": "2026-05-08T18:10:32Z",
+            "content": "The American economy increasingly looks like one big casino. Even former President Trump has acknowledged elements of this shift in recent comments, stating, You know, the whole world, unfortunately,… [+5956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Coinbase to Layoff 14% of Workforce Amid AI Disruption and Crypto Volatility",
+            "description": "The crypto exchange has joined the bull market for blaming cuts on AI.",
+            "url": "https://gizmodo.com/coinbase-to-layoff-14-of-workforce-amid-ai-disruption-and-crypto-volatility-2000754782",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/05/431a1adc20dab63ba03801e76ce9f312-e1778005332659-1200x675.jpg",
+            "publishedAt": "2026-05-05T20:55:36Z",
+            "content": "On Tuesday, Coinbase CEO Brian Armstrong revealed that roughly 14% of the crypto exchanges workforce will be laid off. Armstrong cited volatility in the crypto market and the company’s expanding adop… [+5130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rhett Jones",
+            "title": "Crypto’s Most Powerful PAC Sends a Warning to Politicians: Resistance Is Futile",
+            "description": "\"Rep. Green’s defeat proves that anti-crypto hostility carries real electoral consequences...\"",
+            "url": "https://gizmodo.com/cryptos-most-powerful-pac-sends-a-warning-to-politicians-resistance-is-futile-2000764198",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-495510896.jpg",
+            "publishedAt": "2026-05-27T21:45:01Z",
+            "content": "Congressman Al Green, the incumbent representative for the 18th Congressional District in Texas, lost to fellow House Representative Christian Menefee in a runoff election in the Democratic primary f… [+5163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Cuban Dumps Bitcoin...",
+            "description": "Cuban Dumps Bitcoin...\r\n\n \n \n \n (Second column, 7th story, link)",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65b960de-228e-4cc4-9806-ca65c9fcbffe",
+            "urlToImage": null,
+            "publishedAt": "2026-05-22T20:49:37Z",
+            "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "En partenariat avec Deblock",
+            "title": "Deblock lance l’arrondi automatique pour investir dans le bitcoin sans y penser",
+            "description": "Investir dans le bitcoin sans surveiller les marchés ni multiplier les opérations manuelles. C'est l'objectif de la nouvelle fonction d'arrondi automatique lancée par Deblock, qui transforme chaque paiement du quotidien en micro-investissement directement dep…",
+            "url": "https://www.presse-citron.net/deblock-lance-larrondi-automatique-pour-investir-dans-le-bitcoin-sans-y-penser/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2026/06/1920x1280-31-1600x900.jpg",
+            "publishedAt": "2026-06-02T13:28:50Z",
+            "content": "Après avoir lancé un compte courant rémunéré jusqu’à 4 % et intégré un portefeuille crypto à son application, la néobanque française Deblock continue de rapprocher services bancaires et actifs numéri… [+4668 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tina Nguyen",
+            "title": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
+            "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes into tech shenanigans that take place in the backrooms of Washington. Really, it sometimes does feel like the online series The Backrooms: a parallel universe with no internal logi…",
+            "url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-13T19:11:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCan the stablecoin bill get passed before the Republicans lose Congress?\r\nCan the stablecoin bill get passed before the Republicans lose Congress?\r\nby\r\nTina Nguy… [+11246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Marcus Mendes",
+            "title": "Apple supplier Foxconn confirms ransomware attack affected North American factories",
+            "description": "WIRED reports that Foxconn acknowledged that some of its North American factories “suffered a cyberattack” in recent days, after the ransomware group Nitrogen claimed to have stolen 8TB of data from the company. Here are the details.\n\n\n\n more…",
+            "url": "https://9to5mac.com/2026/05/12/apple-supplier-foxconn-confirms-ransomware-attack-affected-north-american-factories/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-05-13T01:35:22Z",
+            "content": "WIRED reports that Foxconn acknowledged that some of its North American factories suffered a cyberattack in recent days, after the ransomware group Nitrogen claimed to have stolen 8TB of data from th… [+2824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Yorker"
+            },
+            "author": "Jennifer Wilson",
+            "title": "How Americans Caught Gold Fever Again",
+            "description": "Soaring gold prices, viral panning influencers, gold-rush shows on Discovery TV, and Trump’s gold obsession have ignited a craze for prospecting not seen since the forty-niners headed West. Jennifer Wilson reports.",
+            "url": "https://www.newyorker.com/magazine/2026/05/11/how-americans-caught-gold-fever-again",
+            "urlToImage": "https://media.newyorker.com/photos/69ef99d60eb5565b39f8bf26/16:9/w_1280,c_limit/r49114.jpg",
+            "publishedAt": "2026-05-04T10:00:00Z",
+            "content": "I mean, this is all bullshit, Slobodian, who teaches at Boston University, told me. But the great replacement theory requires a means of payment. Goldbug ideology has received an intellectual sheen f… [+4312 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Usaid Siddiqui",
+            "title": "Iran plans to offer insurance for Hormuz transit: Will it work?",
+            "description": "Iran proposes Bitcoin-based ship insurance for the Strait of Hormuz, a move likely to raise global maritime concerns.",
+            "url": "https://www.aljazeera.com/news/2026/5/18/iran-plans-to-offer-insurance-for-hormuz-transit-will-it-work",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0acfce484a-1779093454.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-05-18T11:57:45Z",
+            "content": "Iran has moved a step further in its attempts to formalise its effective control over the Strait of Hormuz after the countrys top security organ announced the formation of a new body to manage the ke… [+7362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Enriquedans.com"
+            },
+            "author": "Enrique Dans",
+            "title": "Cripto contra cuántica: la pelea entre dos promesas que iban a cambiarlo todo",
+            "description": "Hay pocas historias más irónicas que la de una industria nacida para reinventar el dinero que ahora empieza a preocuparse por otra tecnología nacida, también, para reinventarlo todo: la computación cuántica. Una prometía acabar con los intermediarios, con la …",
+            "url": "https://www.enriquedans.com/2026/05/cripto-contra-cuantica-la-pelea-entre-dos-promesas-que-siempre-iban-a-cambiarlo-todo.html",
+            "urlToImage": "https://www.enriquedans.com/wp-content/uploads/2026/05/Crypto-vs-quantum-Dall·E.jpg",
+            "publishedAt": "2026-05-26T05:17:31Z",
+            "content": "Hay pocas historias más irónicas que la de una industria nacida para reinventar el dinero que ahora empieza a preocuparse por otra tecnología nacida, también, para reinventarlo todo: la computación c… [+7945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "GameStop Wants To Buy eBay for $56 Billion In A Deal That Sounds Terrible For Everyone",
+            "description": "The video game retailer has been pivoting to Pokémon cards and other collectibles",
+            "url": "https://kotaku.com/gamestop-wants-to-buy-ebay-for-56-billion-in-a-deal-that-sounds-terrible-for-everyone-2000692923",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/05/gamesotp.jpg",
+            "publishedAt": "2026-05-04T13:04:54Z",
+            "content": "At the end of last week, there were rumblings that GameStop would make a bid on eBay, a company roughly four times its size. Then on Sunday night, before markets opened this week, the gaming retailer… [+4224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "GameStop Snuck An Alarming AI Disclosure Into The Risks Section Of Its Latest Annual Report",
+            "description": "Yoobic, I bic, we all bic",
+            "url": "https://kotaku.com/gamestop-ai-disclosure-risks-annual-report-2000701213",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/11/gamestop-e1777731655117-1200x675.jpg",
+            "publishedAt": "2026-06-01T22:13:25Z",
+            "content": "GameStop shoppers, beware. It sounds like the retailer is on the cusp of inserting some sort of consumer-facing AI garbage into its shopping experience.\r\nThis comes from the company’s annual report, … [+5793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "dpa",
+            "title": "Cybercrime: Mutmaßlicher Drahtzieher von Crimenetwork auf Mallorca gefasst",
+            "description": "Nach jahrelanger Suche wurde ein 35-Jähriger auf Mallorca gefasst. Er soll über 40 Fakeshops betrieben und die Plattform „Crimenetwork“ geleitet haben.",
+            "url": "https://www.heise.de/news/Cybercrime-Mutmasslicher-Drahtzieher-von-Crimenetwork-auf-Mallorca-gefasst-11287615.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/9/1/8/1/shutterstock_170954663-2d09c953d948f4b0.jpg",
+            "publishedAt": "2026-05-08T11:29:00Z",
+            "content": "Inhaltsverzeichnis\r\nNach jahrelangen Ermittlungen ist ein mutmaßlich führender Betreiber von Fake-Onlineshops und mutmaßlicher Drahtzieher einer illegalen Handels-Plattform gefasst worden. Der 35 Jah… [+2606 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "DIE ZEIT: News -",
+            "title": "Cyber-Kriminalität: Illegale Plattform, Fakeshops – Verdächtiger sitzt in Haft",
+            "description": "Hier finden Sie Informationen zu dem Thema „Cyber-Kriminalität“. Lesen Sie jetzt „Illegale Plattform, Fakeshops – Verdächtiger sitzt in Haft“.",
+            "url": "https://www.zeit.de/news/2026-05/08/mutmasslicher-betreiber-von-fake-onlineshops-gefasst",
+            "urlToImage": "https://img.zeit.de/news/2026-05/08/mutmasslicher-betreiber-von-fake-onlineshops-gefasst-image-group/wide__1300x731",
+            "publishedAt": "2026-05-08T10:27:15Z",
+            "content": "Nach jahrelangen Ermittlungen ist ein mutmaßlich führender Betreiber von Fake-Onlineshops und mutmaßlicher Drahtzieher einer illegalen Handels-Plattform gefasst worden. Der 35 Jahre alte Mann aus dem… [+2692 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "DIE ZEIT: News -",
+            "title": "Cyber-Kriminalität: Illegale Plattform, Fakeshops – Verdächtiger sitzt in Haft",
+            "description": "Hier finden Sie Informationen zu dem Thema „Cyber-Kriminalität“. Lesen Sie jetzt „Illegale Plattform, Fakeshops – Verdächtiger sitzt in Haft“.",
+            "url": "https://www.zeit.de/news/2026-05/08/illegale-plattform-fakeshops-verdaechtiger-sitzt-in-haft",
+            "urlToImage": "https://img.zeit.de/news/2026-05/08/illegale-plattform-fakeshops-verdaechtiger-sitzt-in-haft-image-group/wide__1300x731",
+            "publishedAt": "2026-05-08T10:28:32Z",
+            "content": "Nach jahrelangen Ermittlungen ist ein mutmaßlich führender Betreiber von Fake-Onlineshops und mutmaßlicher Drahtzieher einer illegalen Handels-Plattform gefasst worden. Der 35 Jahre alte Mann aus dem… [+2692 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sobrient@insider.com (Samuel O'Brient)",
+            "title": "Why bitcoin traders are suddenly obsessed with a forgotten crypto",
+            "description": "A token launched in 2016 is suddenly in the limelight in crypto circles. Zcash has surged, far outpacing gains in bitcoin in the last month.",
+            "url": "https://www.businessinsider.com/zcash-price-what-is-zec-bitcoin-btc-crypto-privacy-tokens-2026-5",
+            "urlToImage": "https://i.insider.com/6a07523d94eb4c909fb2cf61?width=1200&format=jpeg",
+            "publishedAt": "2026-05-15T16:24:50Z",
+            "content": "A decade-old digital token is suddenly all the rage in crypto circles.\r\nZEC, a token launched in 2016 using the Zcash blockchain protocol, has seen its price surge 50% in a month, even as bitcoin str… [+2998 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Daniel Geiger",
+            "title": "AI infrastructure executives are raking in massive stock windfalls — some are cashing them out",
+            "description": "CoreWeave is one of the most successful among a crop of firms delivering the infrastructure for AI. Its top execs have quietly sold off shares.",
+            "url": "https://www.businessinsider.com/ai-executives-earned-sold-off-stock-awards-coreweave-iren-2026-5",
+            "urlToImage": "https://i.insider.com/69f912c1b3045b292f636a36?width=1200&format=jpeg",
+            "publishedAt": "2026-05-05T09:36:01Z",
+            "content": "Michael Intrator, CoreWeave's CEO.Bloomberg/Getty Images\r\n<ul><li>AI infrastructure firms are paying giant compensation to their senior executives, mostly in stock.</li><li>CoreWeave's top executives… [+7742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Robby Soave",
+            "title": "Data Centers Use Less Water Than Almond Farms—and Do More Good",
+            "description": "Left and right, the arguments against data centers are incredibly weak—and even suspicious.",
+            "url": "https://tech.yahoo.com/science/articles/data-centers-less-water-almond-134521708.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/0f182f1c655b9d6dea2837deb3a43fd318cedc2e004fe47888bcb3d15de8154b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F1a5b74f9c1483ef8966e23cd4bcf3954",
+            "publishedAt": "2026-05-20T13:45:21Z",
+            "content": "Opposition to data centers is all the rage among populists of all stripes. On the left, Sen. Bernie Sanders (IVt.) has proposed a national moratorium on new data center construction; on the right, Tu… [+4462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hurriyet.com.tr"
+            },
+            "author": "hurriyet.com.tr",
+            "title": "Bitcoin aldı, zengin oldu",
+            "description": "DİDEM Soydan’ın 2012’de yaptığı Bitcoin yatırımı, zaman içinde bir servete dönüştü.",
+            "url": "https://www.hurriyet.com.tr/kelebek/stil/bitcoin-aldi-zengin-oldu-43174766",
+            "urlToImage": "https://image.hurimg.com/i/hurriyet/90/0x0/6a07f2911262fb5b7c526193.jpg",
+            "publishedAt": "2026-05-16T04:29:39Z",
+            "content": "p&gt; Umut Ceylan ile No Filter programna katlan manken, unuttuu hesabnda biriken paray yllar sonra fark ettiini anlatt:O zamanki erkek arkadam bana Bitcoinden bahsetmi, aplikasyonunu indirtmiti. Ora… [+335 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "ESchwartzwrites@gmail.com (Eric Hal Schwartz) , Eric Hal Schwartz",
+            "title": "Claude AI helped a Bitcoin owner recover nearly $400,000 in lost crypto — after spotting a forgotten wallet backup hidden for more than a decade",
+            "description": "Claude helped recover nearly $400,000 in lost Bitcoin after more than a decade.",
+            "url": "https://www.techradar.com/ai-platforms-assistants/claude-ai-helped-a-bitcoin-owner-recover-nearly-usd400-000-in-lost-crypto-after-spotting-a-forgotten-wallet-backup-hidden-for-more-than-a-decade",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EhNyeB5pdFH5XyfMPG9pQT-1920-80.jpg",
+            "publishedAt": "2026-05-15T08:26:46Z",
+            "content": "<ul><li>A Bitcoin holder says Anthropic’s Claude AI helped recover nearly $400,000 in lost Bitcoin</li><li>The wallet had been locked for more than a decade</li><li>Claude identified an older wallet … [+3371 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Larazon.es"
+            },
+            "author": "Roberto, Roberto",
+            "title": "De perder la contraseña por ir \"fumado\" a recuperar 300.000 euros en Bitcoin: el hackeo salvador de Claude AI",
+            "description": "La evolución de las capacidades de la inteligencia artificial ha llegado a tiempo para un inversor temprano en criptomonedas que había olvidado la contraseña de acceso a su billetera y que la ha recuperado con la ayuda del asistente de Anthropic",
+            "url": "https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/perder-contrasena-ir-fumado-recuperar-300000-euros-bitcoin-hackeo-salvador-claude-ai_202605186a0ae66ddd62c3164d2e0b0b.html",
+            "urlToImage": "https://fotografias-2.larazon.es/assets/2026/05/usuario-recupera-300000-euros-en-bitcoin-gracias-a-la-ia.jpg?width=1200",
+            "publishedAt": "2026-05-18T14:00:00Z",
+            "content": "Las criptomonedas, con Bitcoin a la cabeza, hicieron su aparición hace más de una década. Por aquel entonces, eran un tema de conversación muy de nicho, limitado casi por completo a círculos tecnológ… [+4383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Martín Nicolás Parolari",
+            "title": "Bitcoin corre el riesgo de perder su propia historia con el paso del tiempo. El Instituto Satoshi Nakamoto crea un archivo digital para preservar sus orígenes antes de que Internet los borre",
+            "description": "Siempre asumimos que la historia de Bitcoin estaría siempre a un clic de distancia. Pero Internet olvida. Para evitar que los textos fundacionales, debates y documentos clave desaparezcan, el Instituto Satoshi Nakamoto lanzó un archivo digital que busca prese…",
+            "url": "https://es.gizmodo.com/bitcoin-corre-el-riesgo-de-perder-su-propia-historia-el-instituto-satoshi-nakamoto-acaba-de-lanzar-archivo-para-evitarlo-2000209945",
+            "urlToImage": "https://es.gizmodo.com/app/uploads/2025/12/Diseno-sin-titulo-51-4-1200x675.jpg",
+            "publishedAt": "2026-05-03T15:49:28Z",
+            "content": "Durante años dimos por hecho que la historia de Bitcoin estaba a salvo en Internet. Que los correos de Satoshi Nakamoto, los primeros debates en foros y los textos que dieron forma a la mayor revoluc… [+3057 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Jesse Hamilton",
+            "title": "Eric Trump takes shot at JPMorgan rethinking bitcoin after 'crapping' on asset",
+            "description": "The U.S. president's son, who co-founded American Bitcoin, said there's been a turnaround from traditional institutional firms now embracing bitcoin.",
+            "url": "https://www.coindesk.com/policy/2026/05/06/eric-trump-takes-shot-at-jpmorgan-rethinking-bitcoin-after-crapping-on-asset",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e2f5cb0c0f6d5f289b42230f0ca14cd77e71f0a3-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-06T18:07:58Z",
+            "content": "MIAMI Eric Trump, the son of President Donald Trump and the co-founder of American Bitcoin (ABTC), said that bitcoin BTC\r\n$81,281.72 has reached a sharp influx of traditional financial giants, name-c… [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "AI Boost",
+            "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+            "description": "As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.",
+            "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/3e122c11f3af7ae63f9dd46ee331ad25ceeee3fc-1796x1000.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-28T22:03:42Z",
+            "content": "Latest developments: Calamos says its protected Bitcoin ETFs are attracting inflows even as spot Bitcoin ETFs see redemptions.\r\n<ul><li>Matt Kaufman, head of ETFs at Calamos, said the firm saw roughl… [+2662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Helene Braun",
+            "title": "Why Trump's bitcoin ETF plans likely collapsed before getting off the ground",
+            "description": "Trump Media withdrew its bitcoin ETF filing as analysts pointed to fee pressure, weak demand and fierce competition in the crowded spot bitcoin ETF market.",
+            "url": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/914bb7a12a47d79dc5d282d86307bd56f23d64ec-4915x3350.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-20T16:35:27Z",
+            "content": "Trump Media &amp; Technology Group likely abandoned plans for its bitcoin BTC\r\n$77,237.94 exchange-traded fund (ETF) because the economics no longer worked.\r\nETF analysts say the company behind Truth… [+2984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "James Van Straten",
+            "title": "Bitcoin ETF outflows reach record nine-day streak as investors pull $2.8 billion",
+            "description": "The longest run of withdrawals since U.S. spot bitcoin ETFs listed in January 2024 comes as bitcoin underperforms high-flying AI and semiconductor stocks.",
+            "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d81686d16b7ee1e84a4412a97f8f426644339360-3200x1800.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-29T10:38:47Z",
+            "content": "U.S. spot bitcoin ETFs have now recorded nine consecutive trading days of net outflows, marking the longest withdrawal streak since the products listed in January 2024. SoSoValue data\r\nOver the nine-… [+1763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tim Manni",
+            "title": "Bitcoin and ethereum prices today, Wednesday, May 27, 2026: Lowest opening prices this week",
+            "description": "Bitcoin opened at $75,829.41 on Wednesday, down 1.9% from Tuesday’s opening price. The price of bitcoin as of 9:21 a.m. ET fell further to $75,216. Ethereum ...",
+            "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-27-2026-lowest-opening-prices-this-week-133420309.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ZpWX2Yzi4TnvhZyi00u31A--~B/aD0zNTA7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_4_7197.jpg",
+            "publishedAt": "2026-05-27T13:34:20Z",
+            "content": "Bitcoin (BTC-USD) opened at $75,829.41 on Wednesday, down 1.9% from Tuesdays opening price. The price of bitcoin as of 9:21 a.m. ET fell further to $75,216.\r\nEthereum (ETH-USD) opened at $2,071.07 on… [+3115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "Sam Daodu",
+            "title": "Why Is MSTR Stock Down 58% YoY Despite Strategy’s Relentless Bitcoin Buying?",
+            "description": "Michael Saylor isn’t slowing down his Bitcoin (CRYPTO: BTC) buying. Strategy (NASDAQ:MSTR | MSTR Price Prediction) now owns 843,738 Bitcoin, which is worth $...",
+            "url": "https://247wallst.com/investing/2026/05/19/why-is-mstr-stock-down-58-yoy-despite-strategys-relentless-bitcoin-buying/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n3BS9jxfBbuw9hCrD5seOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTc-/https://media.zenfs.com/en/24_7_wall_st__718/b5283065803c869ed4ca303c5725a542",
+            "publishedAt": "2026-05-19T11:51:39Z",
+            "content": "Quick Read\r\n<ul><li>Strategy holds 843,738 Bitcoin worth $64.83 billion but has a market cap of only $58.6 billion, meaning the stock market values the entire company at $6 billion less than the Bitc… [+7650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tim Manni",
+            "title": "Bitcoin and ethereum prices today, Friday, May 29, 2026: Prices open lower, despite news of U.S.-Iran truce",
+            "description": "Bitcoin opened at $73,525.74 on Friday, May 29, 2026, down 1.1% from Thursday’s open. The value of bitcoin fell further to $73,381.81 by 7:42 a.m ET...",
+            "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-29-2026-prices-open-lower-despite-news-of-us-iran-truce-115046286.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/g2FYNRdQidSyHITH_Hia0Q--~B/aD0zNzc7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_2_9860.jpg",
+            "publishedAt": "2026-05-29T11:50:46Z",
+            "content": "Bitcoin (BTC-USD) opened at $73,525.74 on Friday, down 1.1% from Thursdays opening price. The value of bitcoin fell further to $73,381.81 by 7:42 a.m ET.\r\nEthereum (ETH-USD) opened at $2,006.97 on Fr… [+3328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "David Beren",
+            "title": "Bitcoin Spot ETFs Have Fundamentally Shifted: These 3 Now Hold Over 1.5 Million BTC Combined",
+            "description": "The U.S. spot Bitcoin ETF complex now controls more Bitcoin than any single private entity on the planet, including the dormant wallets attributed to Satoshi...",
+            "url": "https://247wallst.com/investing/2026/06/01/bitcoin-spot-etfs-have-fundamentally-shifted-these-3-now-hold-over-1-5-million-btc-combined/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZFEoZVZWRNP3TYtG1jeLFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/9f1227a22f2de8ac67bb16fb3c6ffb43",
+            "publishedAt": "2026-06-01T15:11:33Z",
+            "content": "Quick Read\r\n<ul><li>BlackRocks iShares Bitcoin Trust (IBIT) controls 794,428 BTC worth $58 billion and dominates the spot ETF market with the tightest spreads and lowest friction for large allocators… [+7345 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Siladitya Ray, Forbes Staff, \n Siladitya Ray, Forbes Staff\n https://www.forbes.com/sites/siladityaray/",
+            "title": "Bitcoin Falls Below $70,000 For The First Time Since April",
+            "description": "The price of the world’s most valuable cryptocurrency slumped after its biggest institutional holder disclosed a sale for the first time since 2022.",
+            "url": "https://www.forbes.com/sites/siladityaray/2026/06/02/bitcoin-falls-below-70000-for-the-first-time-since-april/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a1e8eadb1e26c00180954e8/0x0.jpg?format=jpg&crop=869,489,x0,y44,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2026-06-02T08:06:06Z",
+            "content": "Bitcoin fell below the $70,000 mark for the first time since April 8 after the cryptocurrencys biggest institutional holder, Michael Saylors Strategy, announced it had sold some of its tokens for the… [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Andreas Wiseman",
+            "title": "‘The Brigands of Rattlecreek’, ‘Bitcoin’ & ‘Art’ Secure Deals For 193 In Cannes; Output Deals Incoming?",
+            "description": "Patrick Wachsberger’s 193 has posted a handful of deals on its Cannes slate. There are more deals in the works but for now Sun Distribution has secured multiple territories for The Brigands of Rattlecreek in Latin America, Art in Latin America and Spain, and …",
+            "url": "http://deadline.com/2026/05/brigands-rattlecreek-bitcoin-art-sell-cannes-deals-1236918730/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/Park-Chan-Wook-Matthew-McConaughey-Austin-Butler-Pedro-Pascal-Tang-Wei.jpg?w=1000",
+            "publishedAt": "2026-05-22T15:00:00Z",
+            "content": "Patrick Wachsberger’s 193 has posted a handful of deals on its Cannes slate.\r\nThere are more deals in the works but for now Sun Distribution has secured multiple territories for The Brigands of Rattl… [+1480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Shaurya Malwa",
+            "title": "Bitcoin miner MARA sold $1.5 billion of bitcoin as it shifts toward AI infrastructure",
+            "description": "While the miner said bitcoin remains its operational foundation, first-quarter results point to a company increasingly built around power, data centers and AI demand.",
+            "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-miner-mara-sold-usd1-5-billion-of-bitcoin-as-it-shifts-toward-ai-infrastructure",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d131b13d968da3a728396e698cdb5ddc75273bdf-3999x2666.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-12T07:42:05Z",
+            "content": "MARA Holdings (MARA) is still producing bitcoin BTC\r\n$80,984.66, but it is getting harder to argue that mining is its core business.\r\nIn its first-quarter earnings statement, the company said it does… [+2106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Bitcoin and ethereum price today, Monday, May 4, 2026: Bitcoin tops $80,000, then pulls back",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1615380e-2b3b-4cc9-bf99-8f67bc435fb4",
+            "urlToImage": null,
+            "publishedAt": "2026-05-04T11:45:47Z",
+            "content": "If you click 'Accept all', we and our partners, including 250 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Jim Cramer on Strategy Inc: “You Want to Own Bitcoin? Buy Bitcoin”",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d6ad6365-d03f-4b41-82e6-b84e5cef69f1",
+            "urlToImage": null,
+            "publishedAt": "2026-05-04T18:21:22Z",
+            "content": "If you click 'Accept all', we and our partners, including 250 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Bitcoin (BTC) News: Saylor Says Strategy Will Buy 20x More Bitcoin Than It Sells",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a4f2f1a6-0866-4be6-b469-e5aff89a0096",
+            "urlToImage": null,
+            "publishedAt": "2026-05-11T11:43:14Z",
+            "content": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices backing off",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c8793b3-0db0-4ef9-9db5-733b638da3ef",
+            "urlToImage": null,
+            "publishedAt": "2026-05-12T11:33:24Z",
+            "content": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "CME Is Launching a Bitcoin VIX: Here’s Why That Changes Wall Street’s Bitcoin Game",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d59eed3-abb1-4167-888d-d87c2c6c6baa",
+            "urlToImage": null,
+            "publishedAt": "2026-05-12T09:45:39Z",
+            "content": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "BITU’s Decay Problem: Why This Bitcoin ETF Lost 31% While Bitcoin Fell Just 10%",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ecdcbbd0-a6cd-45e5-a081-d2ad4a2350d6",
+            "urlToImage": null,
+            "publishedAt": "2026-05-06T11:15:49Z",
+            "content": "If you click 'Accept all', we and our partners, including 250 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tim Manni",
+            "title": "Bitcoin and ethereum prices today, Tuesday, May 12, 2026: Bitcoin and ethereum prices move l",
+            "description": "Bitcoin opened at $81,721.41 on Tuesday, down 0.5% from Monday's opening price of $82,164.43. Ethereum opened at $2,339.40 on Tuesday, down 1.3% from...",
+            "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-may-12-2026-bitcoin-and-ethereum-prices-mv-113324235.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg",
+            "publishedAt": "2026-05-12T11:33:24Z",
+            "content": "Bitcoin (BTC-USD) was down over 1% to $80,389.00 on Tuesday, following a hotter-than-expected CPI report showing consumer prices rose in April, as the Iran war pressured global fuel and food costs.\r\n… [+2943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Bitcoin and ethereum prices today, Thursday, May 14, 2026: Bitcoin and ethereum prices slipping this week",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9dfc74c-84c5-4498-9f8d-062ee0813a76",
+            "urlToImage": null,
+            "publishedAt": "2026-05-14T11:19:38Z",
+            "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Bitcoin and ethereum prices today, June 2, 2026: Bitcoin slides below $70,000",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e4167b06-6562-4ede-9c3e-43a41fc8ad39",
+            "urlToImage": null,
+            "publishedAt": "2026-06-02T13:24:51Z",
+            "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Shaurya Malwa",
+            "title": "Mt. Gox moves 10,422 bitcoin worth $739 million to a new wallet as deadline nears",
+            "description": "The 04:47 UTC Bitcoin block 952,072 transaction moved coins from Mt. Gox cold storage into a freshly generated address, with a smaller 116-bitcoin slice routed to the defunct exchange's hot wallet.",
+            "url": "https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2e2f4d0033938e24189ea3f19906bc804998644b-1440x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-06-02T06:15:02Z",
+            "content": "Defunct bitcoin exchange Mt. Gox moved 10,422.65 bitcoin BTC\r\n$70,166.74 worth roughly $739 million to a new wallet at 04:47 UTC on Tuesday, marking the largest single transfer in months and its bigg… [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Daniel Eckert,Michael Höfling,Karsten Seibel",
+            "title": "Dem Steuervorteil beim Bitcoin droht das Aus – was Krypto-Investoren jetzt noch tun können",
+            "description": "Wer Gewinne mit Bitcoin und anderen digitalen Münzen erzielt, muss sie nach einem Jahr nicht mehr versteuern. Nach der SPD wollen jetzt auch Grüne und Linke diese „Gerechtigkeitslücke“ schließen – wie sie es nennen. WELT erklärt, was auf Krypto-Sparer zukommt…",
+            "url": "https://www.welt.de/finanzen/plus69fc409530e98e4ac324ce9a/steuervorteil-beim-bitcoin-droht-das-aus-was-krypto-investoren-jetzt-noch-tun-koennen.html",
+            "urlToImage": "https://images.welt.de/69fc409530e98e4ac324ce9a/3b6f7358a031299d45142f53a9d7479a-master/ci16x9-w1200/gettyimages-1325823070-1-jpg",
+            "publishedAt": "2026-05-08T12:06:53Z",
+            "content": "Wer Gewinne mit Bitcoin und anderen digitalen Münzen erzielt, muss sie nach einem Jahr nicht mehr versteuern. Nach der SPD wollen jetzt auch Grüne und Linke diese Gerechtigkeitslücke schließen wie si… [+85 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tim Manni",
+            "title": "Bitcoin and ethereum prices today, Monday, May 18, 2026: Prices are down and moving lower this morning",
+            "description": "Bitcoin opened at $77,414.91 on Monday, the lowest opening price since the start of the month. As of 7:26 a.m. ET, the price of bitcoin shifted lower to...",
+            "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-18-2026-prices-are-down-and-moving-lower-this-morning-114100108.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8IgKHs0.oTwPcn40eBVnmg--~B/aD00MDg7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_1_3688.jpg",
+            "publishedAt": "2026-05-18T11:41:00Z",
+            "content": "Bitcoin (BTC-USD) opened at $77,414.91 on Monday, the lowest opening price since the start of the month. As of 7:26 a.m. ET, the price of bitcoin shifted lower to $76,803.25.\r\nEthereum (ETH-USD) open… [+3552 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Andreas Wiseman",
+            "title": "Doug Liman’s AI-Enabled Crypto Movie ‘Bitcoin’ To Feature Bezos, Zuckerberg, Putin, Eric Trump & More As Characters",
+            "description": "EXCLUSIVE: Hold onto your crypto. This could get interesting. It turns out Doug Liman’s much-discussed AI-enabled satire Bitcoin, starring Casey Affleck, Pete Davidson, Gal Gadot and Isla Fisher, will also have some well known supporting characters. Versions …",
+            "url": "http://deadline.com/2026/05/doug-liman-ai-crypto-bitcoin-bezos-zuckerberg-eric-trump-1236918951/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/Bitcoin.jpg?w=1024",
+            "publishedAt": "2026-05-22T16:53:32Z",
+            "content": "EXCLUSIVE: Hold onto your crypto. This could get interesting. \r\nIt turns out Doug Liman‘s much-discussed AI-enabled satire Bitcoin, starring Casey Affleck, Pete Davidson, Gal Gadot and Isla Fisher, w… [+3290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Finance",
+            "title": "Bitcoin falls below $70,000, hitting lowest level since April",
+            "description": "Bitcoin dropped to its lowest level in nearly two months.",
+            "url": "https://finance.yahoo.com/markets/crypto/article/bitcoin-falls-below-70000-hitting-lowest-level-since-april-125652521.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6TJjQsD_s940Qtw2dgdsnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://d29szjachogqwa.cloudfront.net/images/2026-06/a73abff8-077d-4c7c-aa0a-60663e5cbb31",
+            "publishedAt": "2026-06-02T12:56:52Z",
+            "content": "What happened: Bitcoin (BTC-USD) dropped more than 4% on Tuesday to hover below $70,000, its lowest level since April 8.\r\nWhats behind the move: The worlds largest cryptocurrency has faced numerous h… [+1392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "taz.de"
+            },
+            "author": "Hannes Koch",
+            "title": "Kapitalertragssteuer oder was: Da freut sich die Bitcoin-Gemeinde",
+            "description": "Die Bundesregierung erwägt, Krypto-Finanzanlagen anders zu besteuern. Grüne und Linke bringen Initiativen in den Bundestag ein.",
+            "url": "https://taz.de/Kapitalertragssteuer-oder-was/!6178670/",
+            "urlToImage": "https://taz.de/picture/8435315/1200/41131106.jpeg",
+            "publishedAt": "2026-05-12T15:53:00Z",
+            "content": "Die Bundesregierung erwägt, Krypto-Finanzanlagen anders zu besteuern. Grüne und Linke bringen Initiativen in den Bundestag ein. mehr..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Shaurya Malwa",
+            "title": "Strategy pauses bitcoin buys before Tuesday earnings",
+            "description": "Michael Saylor says the company will resume purchases next week, but the pause lands as analysts focus on losses and the growing complexity of Strategy’s preferred-stock funding machine.",
+            "url": "https://www.coindesk.com/business/2026/05/04/strategy-pauses-bitcoin-buys-before-tuesday-earnings",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8a5dba87ad94ba079e2f4c60317ed8bbef4fb85e-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-04T05:14:53Z",
+            "content": "Strategy is taking a breather from buying bitcoin.\r\nMichael Saylor said Sunday the company would not add to its bitcoin holdings this week, pausing its regular purchase program ahead of Tuesdays firs… [+2562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Omkar Godbole, Olivier Acuna",
+            "title": "Bitcoin left behind in the geopolitical melee",
+            "description": "Your day-ahead look for May 22, 2026",
+            "url": "https://www.coindesk.com/daybook-us/2026/05/22/bitcoin-left-behind-in-the-geopolitical-melee",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2e95f0a867861e80a3d80fd8a304d95ec5451345-5376x3584.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-22T11:31:30Z",
+            "content": "The current state of financial markets is best described as macro-geopolitics first, crypto second.\r\nThe evidence is clear. Despite recent positive regulatory developments related to the Clarity Act,… [+2711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Omkar Godbole",
+            "title": "Clarity Act markup leaves bitcoin unstirred",
+            "description": "The day ahead in crypto: May 14, 2026",
+            "url": "https://www.coindesk.com/daybook-us/2026/05/14/clarity-act-markup-leaves-bitcoin-unstirred",
+            "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/01c91bc3b572d3fa729dbeab3c0da632ed261d7f-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+            "publishedAt": "2026-05-14T11:26:43Z",
+            "content": "This is an excerpt from CoinDesk newsletter 'Daybook.'Sign up here, if you haven't already.\r\nThe week's main event for digital assets, the U.S. Clarity Act markup, is due later today. The crypto mark… [+3210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Prediction: Bitcoin Will Hit $150,000 in 2026",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d137033f-182a-412a-8f66-728874494a66",
+            "urlToImage": null,
+            "publishedAt": "2026-05-12T09:20:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+        }
+    ]
+}
