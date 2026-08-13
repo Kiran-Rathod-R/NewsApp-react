@@ -8,7 +8,8 @@ export class News extends Component {
     country: 'in',
     pagesize: 6,
     category: 'general',
-    searchQuery: ''
+    searchQuery: '',
+    mode: 'light'
   }
 
   constructor(props) {
@@ -27,7 +28,6 @@ export class News extends Component {
     this.setState({ loading: true });
 
     try {
-      // Primary Hostable Open API (Supports CORS, free for hosted deployment)
       const primaryUrl = `https://saurav.tech/NewsAPI/top-headlines/category/${category}/${country}.json`;
       let response = await fetch(primaryUrl);
       
@@ -38,7 +38,6 @@ export class News extends Component {
       let parsedData = await response.json();
       let articles = parsedData.articles || [];
 
-      // If user typed a search query, filter articles by title or description
       if (searchQuery && searchQuery.trim() !== '') {
         const query = searchQuery.toLowerCase().trim();
         articles = articles.filter(item => 
@@ -57,7 +56,6 @@ export class News extends Component {
     } catch (error) {
       console.warn("Primary API fetch failed, loading local fallback data:", error);
       
-      // Fallback to local json dataset so app never breaks when offline or throttled
       let fallbackArticles = localNews.articles || [];
 
       if (category && category !== 'general') {
@@ -122,9 +120,8 @@ export class News extends Component {
   render() {
     const pageSize = this.props.pagesize || 6;
     const { articles, loading, page, usingFallback } = this.state;
-    const { category, searchQuery } = this.props;
+    const { category, searchQuery, mode } = this.props;
 
-    // Slice articles for local pagination
     const startIndex = (page - 1) * pageSize;
     const paginatedArticles = articles.slice(startIndex, startIndex + pageSize);
     const totalPages = Math.ceil(articles.length / pageSize) || 1;
@@ -138,7 +135,7 @@ export class News extends Component {
         <div className="d-flex flex-column flex-md-row justify-content-between align-items-center mb-4 pb-2 border-bottom">
           <h2 className="fw-bold mb-2 mb-md-0 text-capitalize">
             Top {capitalize(category)} Headlines
-            {searchQuery && <span className="text-secondary fs-5 ms-2">(Search: "{searchQuery}")</span>}
+            {searchQuery && <span className={mode === 'dark' ? 'text-light fs-5 ms-2' : 'text-secondary fs-5 ms-2'}>(Search: "{searchQuery}")</span>}
           </h2>
           {usingFallback && (
             <span className="badge bg-warning text-dark px-3 py-2 rounded-pill">
@@ -151,8 +148,8 @@ export class News extends Component {
 
         {!loading && paginatedArticles.length === 0 && (
           <div className="text-center my-5 py-5">
-            <h4 className="text-muted">No news articles found for "{searchQuery || category}".</h4>
-            <p className="text-secondary">Try searching for a different keyword or topic.</p>
+            <h4 className={mode === 'dark' ? 'text-light' : 'text-muted'}>No news articles found for "{searchQuery || category}".</h4>
+            <p className={mode === 'dark' ? 'text-light' : 'text-secondary'}>Try searching for a different keyword or topic.</p>
           </div>
         )}
 
@@ -168,6 +165,7 @@ export class News extends Component {
                   author={element.author}
                   date={element.publishedAt}
                   source={element.source ? element.source.name : category}
+                  mode={mode}
                 />
               </div>
             )
@@ -180,18 +178,18 @@ export class News extends Component {
               disabled={page <= 1}
               type="button"
               onClick={this.handlePrevClick}
-              className="btn btn-outline-dark px-4 fw-bold"
+              className={mode === 'dark' ? 'btn btn-outline-light px-4 fw-bold' : 'btn btn-outline-dark px-4 fw-bold'}
             >
               &larr; Previous
             </button>
-            <span className="text-muted fw-semibold fs-6">
+            <span className={mode === 'dark' ? 'text-light fw-semibold fs-6' : 'text-muted fw-semibold fs-6'}>
               Page {page} of {totalPages}
             </span>
             <button
               disabled={page >= totalPages}
               type="button"
               onClick={this.handleNextClick}
-              className="btn btn-outline-dark px-4 fw-bold"
+              className={mode === 'dark' ? 'btn btn-outline-light px-4 fw-bold' : 'btn btn-outline-dark px-4 fw-bold'}
             >
               Next &rarr;
             </button>
@@ -203,4 +201,5 @@ export class News extends Component {
 }
 
 export default News
+
 

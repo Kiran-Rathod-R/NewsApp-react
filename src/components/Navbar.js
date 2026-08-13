@@ -20,7 +20,7 @@ export class Navbar extends Component {
   }
 
   render() {
-    const { activeCategory, onCategoryChange } = this.props;
+    const { activeCategory, onCategoryChange, mode, toggleMode } = this.props;
     const categories = [
       { id: 'general', label: 'General' },
       { id: 'business', label: 'Business' },
@@ -33,7 +33,7 @@ export class Navbar extends Component {
 
     return (
       <header className="sticky-top">
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+        <nav className={`navbar navbar-expand-lg ${mode === 'dark' ? 'navbar-dark bg-dark' : 'navbar-dark bg-dark'} shadow-sm`}>
           <div className="container">
             <a 
               className="navbar-brand fw-bold text-uppercase tracking-wide" 
@@ -67,19 +67,39 @@ export class Navbar extends Component {
                   </li>
                 ))}
               </ul>
-              <form className="d-flex" onSubmit={this.handleSearchSubmit}>
-                <input
-                  className="form-control me-2 form-control-sm"
-                  type="search"
-                  placeholder="Search news..."
-                  aria-label="Search"
-                  value={this.state.searchInput}
-                  onChange={this.handleInputChange}
-                />
-                <button className="btn btn-outline-light btn-sm fw-semibold" type="submit">
-                  Search
-                </button>
-              </form>
+              <div className="d-flex align-items-center">
+                <form className="d-flex me-3" onSubmit={this.handleSearchSubmit}>
+                  <input
+                    className="form-control me-2 form-control-sm"
+                    type="search"
+                    placeholder="Search news..."
+                    aria-label="Search"
+                    value={this.state.searchInput}
+                    onChange={this.handleInputChange}
+                  />
+                  <button className="btn btn-outline-light btn-sm fw-semibold" type="submit">
+                    Search
+                  </button>
+                </form>
+                <div className="form-check form-switch mb-0">
+                  <input
+                    className="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="darkModeSwitch"
+                    checked={mode === 'dark'}
+                    onChange={toggleMode}
+                    style={{ cursor: 'pointer' }}
+                  />
+                  <label 
+                    className="form-check-input-label text-light small fw-semibold ms-1 unselectable" 
+                    htmlFor="darkModeSwitch"
+                    style={{ cursor: 'pointer', userSelect: 'none' }}
+                  >
+                    {mode === 'dark' ? 'Dark' : 'Light'} Mode
+                  </label>
+                </div>
+              </div>
             </div>
           </div>
         </nav>
@@ -89,4 +109,5 @@ export class Navbar extends Component {
 }
 
 export default Navbar
+
 
